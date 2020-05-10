@@ -6,5 +6,6 @@ Require:
   - ArcPy: https://pro.arcgis.com/es/pro-app/arcpy/get-started/what-is-arcpy-.htm
   - Jupyter Dashboards: https://jupyter-dashboards-layout.readthedocs.io/en/latest/
   
+ 
  ![](images/dashboard.gif)
  
